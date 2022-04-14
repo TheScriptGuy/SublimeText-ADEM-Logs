@@ -13,7 +13,7 @@
 
 3. Next time you open a `palo_alto_networks_dem_agent.log` or `palo_alto_networks_dem_agent.1.log` file, it should do the syntax highlighting for you.
 
-4. If it doesn't set the syntax correctly, `⌘ + Shift + P` will open the Command Palette.
+4. If it doesn't set the syntax correctly, `⌘ + ⇧ + P` will open the Command Palette.
 
 5. Type: 
 * `Set Syntax: Palo Alto Networks ADEM Logs` for ADEM endpoint log file format. 
