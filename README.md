@@ -16,8 +16,8 @@
 4. If it doesn't set the syntax correctly, `⌘ + Shift + P` will open the Command Palette.
 
 5. Type: 
-* `Set Syntax: Palo Alto Networks ADEM` for ADEM endpoint log file format. 
-* `Set Syntax: Palo Alto Networks ION ADEM` for ION ADEM endpoint log file format
+* `Set Syntax: Palo Alto Networks ADEM Logs` for ADEM endpoint log file format. 
+* `Set Syntax: Palo Alto Networks ION ADEM Logs` for ION ADEM endpoint log file format
 
 ## Windows
 
@@ -29,5 +29,5 @@
 4. If it doesn't set the syntax correctly, `Ctrl + Shift + P` will open the Command Palette.
 
 5. Type: 
-* `Set Syntax: Palo Alto Networks ADEM` for ADEM endpoint log file format. 
-* `Set Syntax: Palo Alto Networks ION ADEM` for ION ADEM endpoint log file format
+* `Set Syntax: Palo Alto Networks ADEM Logs` for ADEM endpoint log file format. 
+* `Set Syntax: Palo Alto Networks ION ADEM Logs` for ION ADEM endpoint log file format
