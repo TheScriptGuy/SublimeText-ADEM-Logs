@@ -1,4 +1,6 @@
 # Autonomous Digital Experience Management
+Enables log formatting to apply to both the endpoint DEM and ION DEM log files.
+
 ## Syntax Highlighting
 * Version: 0.02
 * Last Modified: 2022/04/14
